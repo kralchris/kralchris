@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kralchris
-- 👀 I’m interested in data science, python, and machine learning.
-- 🌱 I’m currently learning, period.
--  I will probably update this file soon.
-- 💞️ I’m looking to collaborate, period.
-- 📫 How to reach me ...
+- 👀 I am passionate about data science, python, machine learning, and development.
+- 🌱 I use this as a library of my projects.
+
+- 💞️ I’m looking to collaborate.
+- 📫 Contact:
 
 <!---
-kralchris/kralchris is a ✨ special ✨ repository, period.
+kralchris/kralchris is a ✨ special ✨ repository.
 --->
