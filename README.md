@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Hi !</h1>
+  <h1>Hi, welcome!</h1>
   <h2>About Me</h2>
   <p>
-    I'm a passionate developer with a strong interest in machine learning, data science, and backend development.
+    I'm a <b>Prague-based</b> passionate <b>Python</b> developer with a strong interest in machine learning, data science, and backend development.
     My main programming language is Python, and I love working on projects that involve leveraging the power of data.
   </p>
   <h2>Skills and Expertise</h2>
